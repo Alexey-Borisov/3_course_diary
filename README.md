@@ -3,4 +3,4 @@
 Тема: Умный поиск (по сайту). Мини-проект: есть неформальный запрос, найти наиболее релевантную информацию в источнике.
 
 Начал с чтения книги ""
-![Хобсон, Ханнес, Коул: Обработка естественного языка в действии](https://github.com/Alexey-Borisov/3_course_diary/tree/main/source?raw=false)
+![Хобсон, Ханнес, Коул: Обработка естественного языка в действии](https://github.com/Alexey-Borisov/3_course_diary/tree/main/source/nlp_book.jpg?raw=false)
