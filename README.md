@@ -12,8 +12,10 @@
 
 Продолжаю восполнять свои знания по теме языковых моделей и трансформеров. 
 
-Нашел с виду интересную новую статью, с которой стоит ознакомиться: https://arxiv.org/ftp/arxiv/papers/2111/2111.05412.pdf
+Нашел с виду интересную новую статью, с которой стоит ознакомиться: MNet-Sim: A Multi-layered Semantic Similarity
+Network to Evaluate Sentence Similarity (https://arxiv.org/ftp/arxiv/papers/2111/2111.05412.pdf)
 
-Еще одна статья, с которой хочу ознакомиться https://arxiv.org/pdf/2108.08877.pdf
+Еще одна статья, с которой хочу ознакомиться: Sentence-T5: Scalable Sentence Encoders
+from Pre-trained Text-to-Text Models (https://arxiv.org/pdf/2108.08877.pdf)
 
-Также в скором времени ознакомлюсь со статьей https://arxiv.org/pdf/1905.01969.pdf
+Также в скором времени ознакомлюсь со статьей о Poly-encoders (https://arxiv.org/pdf/1905.01969.pdf)
