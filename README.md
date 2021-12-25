@@ -19,3 +19,10 @@ Network to Evaluate Sentence Similarity (https://arxiv.org/ftp/arxiv/papers/2111
 from Pre-trained Text-to-Text Models (https://arxiv.org/pdf/2108.08877.pdf)
 
 Также в скором времени ознакомлюсь со статьей о Poly-encoders (https://arxiv.org/pdf/1905.01969.pdf)
+
+
+Ознакомился со статьей о Poly-encoders, перед этим возобновив свои знания о Bi- и Cross-encoders. 
+
+К сожалению, авторы не предоставили свои предобученные модели, поэтому использовать подход использующий Poly-encoders,
+скорее всего не смогу. В ближайшее время собираюсь попробовать использовать Bi- и Cross-encoders используя предобученные модели 
+из библиотеки SentenceTransformers (https://www.sbert.net)
