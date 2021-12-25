@@ -28,7 +28,7 @@ from Pre-trained Text-to-Text Models (https://arxiv.org/pdf/2108.08877.pdf)
 из библиотеки SentenceTransformers (https://www.sbert.net). Также нужно будет прочитать статью авторов библиотеки SentenceTransformers - 
 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (https://arxiv.org/pdf/1908.10084.pdf)
 
-<img src="https://raw.githubusercontent.com/Alexey-Borisov/3_course_diary/main/source/encoders.png" scale=0.5>
+<img src="https://raw.githubusercontent.com/Alexey-Borisov/3_course_diary/main/source/encoders.png" scale=0.3>
 
 Вообще говоря Cross-encoders показывают лучшее качество чем Bi-encoders, и Poly-encoders позиционируется как архитектура способная дать лучшее качество
 чем Bi-encoders и при этом оставить разумное время инференса. Большое время работы Cross-encoders обусловлено тем, что нам нужно для каждой пары 
