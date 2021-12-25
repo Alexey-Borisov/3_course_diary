@@ -28,6 +28,7 @@ from Pre-trained Text-to-Text Models (https://arxiv.org/pdf/2108.08877.pdf)
 из библиотеки SentenceTransformers (https://www.sbert.net). Также нужно будет прочитать статью авторов библиотеки SentenceTransformers - 
 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (https://arxiv.org/pdf/1908.10084.pdf)
 
+<img src="https://raw.githubusercontent.com/Alexey-Borisov/3_course_diary/main/source/encoders.png">
 
 Вообще говоря Cross-encoders показывают лучшее качество чем Bi-encoders, и Poly-encoders позиционируется как архитектура способная дать лучшее качество
 чем Bi-encoders и при этом оставить разумное время инференса. Большое время работы Cross-encoders обусловлено тем, что нам нужно для каждой пары 
@@ -36,6 +37,7 @@ Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (https://arxiv.or
 эмбеддинг контекста и посчитать функцию близости.
 Но в нашей задаче у нас кандидатами являются предложения на сайте, и заранее посчитать эмбеддинги всех предложений
 со всех сайтов не представляется возможным, поэтому основное преимущество использования Bi- и Poly-encoders пропадает.
-Хотя при нескольких последовательных запросах при работе с одним сайтом, использование Bi- и Poly-encoders позволит сохранить эмбеддинги предложений и ускорит время ответа на последующие запросы. 
+Хотя при нескольких последовательных запросах при работе с одним сайтом, использование Bi- и Poly-encoders позволит сохранить
+эмбеддинги предложений и ускорит время ответа на последующие запросы. 
 
 
