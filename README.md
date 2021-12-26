@@ -45,7 +45,7 @@ Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks (https://arxiv.or
 Авторы предлагают архитектуру Bi- и Cross-encoders с использованием BERT-подобных моделей.
 
 
-<img src="https://raw.githubusercontent.com/Alexey-Borisov/3_course_diary/main/source/Bi_vs_Cross-Encoder.png" height="500">
+<img src="https://raw.githubusercontent.com/Alexey-Borisov/3_course_diary/main/source/Bi_vs_Cross-Encoder.png" height="300">
 
 В статье рассматриваются различные стратегии
 получения эмбеддингов предложений,для дальнейшего использования в различных задачах. Из приятного, авторы в своей библиотеке SentenceTransformers
