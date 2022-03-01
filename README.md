@@ -25,7 +25,7 @@ ___
 
 Список ниже будет дополняться статьями, которые я буду изучать:
 1) Nguyen, Bac; Morell, Carlos; De Baets, Bernard (2018). Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent. IEEE Transactions on Cybernetics, (), 1–12. doi:10.1109/TCYB.2018.2881417 
-
+2) H. Ye, D. Zhan, N. Li and Y. Jiang, "Learning Multiple Local Metrics: Global Consideration Helps" in IEEE Transactions on Pattern Analysis & Machine Intelligence, vol. 42, no. 07, pp. 1698-1712, 2020. doi: 10.1109/TPAMI.2019.2901675 (пока нигде не нашел бесплатно, но abstract звучит интересно)
 ___
 
 ## 01.03.2022
