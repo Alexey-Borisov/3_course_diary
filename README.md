@@ -42,6 +42,7 @@ ___
 ## 06.03.2022
 
 ENN: Extended Nearest Neighbor Method for Pattern Recognition
+
 MCENN: A variant of extended nearest neighbor method for pattern
 recognition
 
