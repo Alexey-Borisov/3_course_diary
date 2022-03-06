@@ -24,10 +24,10 @@ ___
 5) Ядерные обобщения некоторых алгоритмов: KLMNN, KANMM, KDMLMJ, KDA
 
 Список ниже будет дополняться статьями, которые я буду изучать:
-#1) Nguyen, Bac; Morell, Carlos; De Baets, Bernard (2018). Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent. IEEE Transactions on Cybernetics, (), 1–12. doi:10.1109/TCYB.2018.2881417 
+1) Nguyen, Bac; Morell, Carlos; De Baets, Bernard (2018). Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent. IEEE Transactions on Cybernetics, (), 1–12. doi:10.1109/TCYB.2018.2881417 
 2) H. Ye, D. Zhan, N. Li and Y. Jiang, "Learning Multiple Local Metrics: Global Consideration Helps" in IEEE Transactions on Pattern Analysis & Machine Intelligence, vol. 42, no. 07, pp. 1698-1712, 2020. doi: 10.1109/TPAMI.2019.2901675 (пока нигде не нашел бесплатно, но abstract звучит интересно)
 3) Bac Nguyen, Francesc J. Ferri, Carlos Morell, Bernard De Baets, An efficient method for clustered multi-metric learning, Information Sciences, Volume 471, 2019, Pages 149-163, ISSN 0020-0255, https://doi.org/10.1016/j.ins.2018.08.055.
-4) B. Tang and H. He, "ENN: Extended Nearest Neighbor Method for Pattern Recognition [Research Frontier]," in IEEE Computational Intelligence Magazine, vol. 10, no. 3, pp. 52-60, Aug. 2015, doi: 10.1109/MCI.2015.2437512.
+4) B. Tang and H. He, "ENN: Extended Nearest Neighbor Method for Pattern Recognition [Research Frontier]," in IEEE Computational Intelligence Magazine, vol. 10, no. 3, pp. 52-60, Aug. 2015, doi: 10.1109/MCI.2015.2437512. ##Done
 5) Bo Tang, Haibo He, Song Zhang, MCENN: A variant of extended nearest neighbor method for pattern recognition, Pattern Recognition Letters, Volume 133, 2020, Pages 116-122, ISSN 0167-8655, https://doi.org/10.1016/j.patrec.2020.01.015.
 6) Chakraborty, Tapabrata (Rohan) et al. “Distance Metric Learned Collaborative Representation Classifier.” ArXiv abs/1905.01168 (2019): n. pag.
 ___
