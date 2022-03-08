@@ -32,6 +32,7 @@ ___
 6) Chakraborty, Tapabrata (Rohan) et al. “Distance Metric Learned Collaborative Representation Classifier.” ArXiv abs/1905.01168 (2019): n. pag.
 7) L. Feng, H. Wang, B. Jin, H. Li, M. Xue and L. Wang, "Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 49, no. 12, pp. 2384-2395, Dec. 2019, doi: 10.1109/TSMC.2018.2790914.
 8) Chen S. et al. Curvilinear Distance Metric Learning // Advances in Neural Information Processing Systems. – 2019. – С. 4225-4234. http://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning
+9) [Metric Learning for Dynamic Text Classification](https://aclanthology.org/D19-6116) (Wohlwend et al., EMNLP 2019)
 ___
 
 ## 01.03.2022
