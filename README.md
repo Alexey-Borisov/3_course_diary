@@ -30,7 +30,7 @@ ___
 4) **(Done)** B. Tang and H. He, "ENN: Extended Nearest Neighbor Method for Pattern Recognition [Research Frontier]," in IEEE Computational Intelligence Magazine, vol. 10, no. 3, pp. 52-60, Aug. 2015, doi: 10.1109/MCI.2015.2437512.
 5) **(Done)** Bo Tang, Haibo He, Song Zhang, MCENN: A variant of extended nearest neighbor method for pattern recognition, Pattern Recognition Letters, Volume 133, 2020, Pages 116-122, ISSN 0167-8655, https://doi.org/10.1016/j.patrec.2020.01.015.
 6) Chakraborty, Tapabrata (Rohan) et al. “Distance Metric Learned Collaborative Representation Classifier.” ArXiv abs/1905.01168 (2019): n. pag.
-7) L. Feng, H. Wang, B. Jin, H. Li, M. Xue and L. Wang, "Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 49, no. 12, pp. 2384-2395, Dec. 2019, doi: 10.1109/TSMC.2018.2790914.
+7) **(Done)** L. Feng, H. Wang, B. Jin, H. Li, M. Xue and L. Wang, "Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 49, no. 12, pp. 2384-2395, Dec. 2019, doi: 10.1109/TSMC.2018.2790914.
 8) Chen S. et al. Curvilinear Distance Metric Learning // Advances in Neural Information Processing Systems. – 2019. – С. 4225-4234. http://papers.nips.cc/paper/8675-curvilinear-distance-metric-learning
 9) [Metric Learning for Dynamic Text Classification](https://aclanthology.org/D19-6116) (Wohlwend et al., EMNLP 2019)
 ___
