@@ -35,8 +35,9 @@ ___
 - [ ] [Metric Learning for Dynamic Text Classification](https://aclanthology.org/D19-6116) (Wohlwend et al., EMNLP 2019)
 - [ ] Huang, Zhiwu et al. “Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video.” IEEE Transactions on Pattern Analysis and Machine Intelligence 40 (2018): 2827-2840.
 - [ ] Chen, Shuo et al. “Adversarial Metric Learning.” ArXiv abs/1802.03170 (2018): n. pag.
-- [ ] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust
-image recognition. In NeurIPS, 2018. 1, 2.1
+- [ ] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust image recognition. In NeurIPS, 2018. 1, 2.1
+- [ ] Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang, and Zhi-Hua Zhou. What makes objects similar: a unified multi-metric learning approach. In NeurIPS, 2016. 1, 2.1
+
 ___
 
 ## 01.03.2022
