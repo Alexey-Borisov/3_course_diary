@@ -37,6 +37,8 @@ ___
 - [ ] Chen, Shuo et al. “Adversarial Metric Learning.” ArXiv abs/1802.03170 (2018): n. pag.
 - [ ] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust image recognition. In NeurIPS, 2018. 1, 2.1
 - [ ] Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang, and Zhi-Hua Zhou. What makes objects similar: a unified multi-metric learning approach. In NeurIPS, 2016. 1, 2.1
+- [ ] Pourya Zadeh, Reshad Hosseini, and Suvrit Sra. Geometric mean metric learning. In ICML, 2016. 1, 4.2
+- [ ] Pengfei Zhu, Hao Cheng, Qinghua Hu, Qilong Wang, and Changqing Zhang. Towards generalized and efficient metric learning on riemannian manifold. In IJCAI, 2018. 1
 
 ___
 
