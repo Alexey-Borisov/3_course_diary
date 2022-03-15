@@ -37,7 +37,7 @@ ___
 - [ ] Chen, Shuo et al. “Adversarial Metric Learning.” ArXiv abs/1802.03170 (2018): n. pag.
 - [ ] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust image recognition. In NeurIPS, 2018. 1, 2.1
 - [ ] Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang, and Zhi-Hua Zhou. What makes objects similar: a unified multi-metric learning approach. In NeurIPS, 2016. 1, 2.1
-- [ ] Pourya Zadeh, Reshad Hosseini, and Suvrit Sra. Geometric mean metric learning. In ICML, 2016. 1, 4.2
+- [x] Pourya Zadeh, Reshad Hosseini, and Suvrit Sra. Geometric mean metric learning. In ICML, 2016. 1, 4.2
 - [ ] Pengfei Zhu, Hao Cheng, Qinghua Hu, Qilong Wang, and Changqing Zhang. Towards generalized and efficient metric learning on riemannian manifold. In IJCAI, 2018. 1
 
 ___
@@ -84,7 +84,8 @@ Distance Metric Learned Collaborative Representation Classifier
 
 ___ 
 
-What makes objects similar: a unified multi-metric learning approach
+Geometric mean metric learning
 
+Очередной метод mettric learning, который однако довольно сильно отличается от других. Как и многие более ранние методы здесь авторы минимизируют расстояния между "похожими" объектами, но вместо того чтобы максимизировать расстояния между непохожими объектами, используя ту же метрику, порожденную матрицей A, которую и обучает метод, минимизируют расстояния между различными объектами в метрике, порожденной матрицей $A^{-1}$.
 
 ___
