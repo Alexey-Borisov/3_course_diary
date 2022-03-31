@@ -42,6 +42,10 @@ ___
 
 ___
 
+Здесь будет выстраиваться некоторое распределение статей по темам, на которое будет опираться структура обзорной статьи.
+
+___
+
 ## 01.03.2022
 
 Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent.
