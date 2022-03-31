@@ -44,6 +44,32 @@ ___
 
 Здесь будет выстраиваться некоторое распределение статей по темам, на которое будет опираться структура обзорной статьи.
 
+
+1) Применение современных подходов к metric learning:
+  * Adversarial Metric Learning - подход, похожий на GAN. пытаемся искусственно создавать пары, на которых алгоритм ошибается.
+  * A Unified Framework for Metric Transfer Learning - transfer learning для metrcic learning
+  * Robust Transfer Metric Learning for Image Classification - аналогично
+
+
+2) Методы решающие некоторые проблемы существующих алгоритмов:
+  * Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent - эффективный метод оптимизации, подходит для больших данных.
+  * Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets - для несбалансированных датасетов.
+
+3) Подходы использующие оптмизацию на многообразии Римана или Грассмана, а также в пространстве неотрицательно опредеделенных матриц. (Riemannian manifold, Grassman manifold, PSD cone):
+  * Towards generalized and efficient metric learning on riemannian manifold
+  * Geometric mean metric learning
+  * Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video
+
+
+4) Нелинейные методы metric learning, можно подразделить на local metric learning, instance metric learning, multi-metric learning:
+  * What makes objects similar: a unified multi-metric learning approach
+
+5) Новые методы, связанные с metric learning:
+  * MCENN: A variant of extended nearest neighbor method for pattern recognition
+  * Distance Metric Learned Collaborative Representation Classifier
+  * Supervised distance metric learning through maximization of the Jeffrey divergence
+
+
 ___
 
 ## 01.03.2022
