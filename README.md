@@ -46,9 +46,9 @@ ___
 
 
 + Применение современных подходов к metric learning:
-  1) Adversarial Metric Learning - подход, похожий на GAN. пытаемся искусственно создавать пары, на которых алгоритм ошибается.
-  2) A Unified Framework for Metric Transfer Learning - transfer learning для metrcic learning
-  3) Robust Transfer Metric Learning for Image Classification - аналогично
+  1. Adversarial Metric Learning - подход, похожий на GAN. пытаемся искусственно создавать пары, на которых алгоритм ошибается.
+  2. A Unified Framework for Metric Transfer Learning - transfer learning для metrcic learning
+  3. Robust Transfer Metric Learning for Image Classification - аналогично
 
 
 + Методы решающие некоторые проблемы существующих алгоритмов:
