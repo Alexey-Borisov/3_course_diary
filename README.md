@@ -55,19 +55,20 @@ ___
   1) Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent - эффективный метод оптимизации, подходит для больших данных.
   2) Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets - для несбалансированных датасетов.
 
-3) Подходы использующие оптмизацию на многообразии Римана или Грассмана, а также в пространстве неотрицательно опредеделенных матриц. (Riemannian manifold, Grassman manifold, PSD cone):
-  * Towards generalized and efficient metric learning on riemannian manifold
-  * Geometric mean metric learning
-  * Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video
++ Подходы использующие оптмизацию на многообразии Римана или Грассмана, а также в пространстве неотрицательно опредеделенных матриц. (Riemannian manifold, Grassman manifold, PSD cone):
+  1) Towards generalized and efficient metric learning on riemannian manifold
+  2) Geometric mean metric learning
+  3) Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video
 
 
-4) Нелинейные методы metric learning, можно подразделить на local metric learning, instance metric learning, multi-metric learning:
-  * What makes objects similar: a unified multi-metric learning approach
++ Нелинейные методы metric learning, можно подразделить на local metric learning, instance metric learning, multi-metric learning:
+  1) What makes objects similar: a unified multi-metric learning approach
+  2) Curvilinear Distance Metric Learning
 
-5) Новые методы, связанные с metric learning:
-  * MCENN: A variant of extended nearest neighbor method for pattern recognition
-  * Distance Metric Learned Collaborative Representation Classifier
-  * Supervised distance metric learning through maximization of the Jeffrey divergence
++ Новые методы, связанные с metric learning:
+  1) MCENN: A variant of extended nearest neighbor method for pattern recognition
+  2) Distance Metric Learned Collaborative Representation Classifier
+  3) Supervised distance metric learning through maximization of the Jeffrey divergence
 
 
 ___
