@@ -64,7 +64,8 @@ ___
 + Нелинейные методы metric learning, можно подразделить на local metric learning, instance metric learning, multi-metric learning:
   1) What makes objects similar: a unified multi-metric learning approach
   2) Curvilinear Distance Metric Learning
-
+  3) Generative Local Metric Learning for Nearest Neighbor Classification
+  
 + Новые методы, связанные с metric learning:
   1) MCENN: A variant of extended nearest neighbor method for pattern recognition
   2) Distance Metric Learned Collaborative Representation Classifier
