@@ -35,7 +35,7 @@ ___
 - [ ] [Metric Learning for Dynamic Text Classification](https://aclanthology.org/D19-6116) (Wohlwend et al., EMNLP 2019)
 - [ ] Huang, Zhiwu et al. “Cross Euclidean-to-Riemannian Metric Learning with Application to Face Recognition from Video.” IEEE Transactions on Pattern Analysis and Machine Intelligence 40 (2018): 2827-2840.
 - [x] Chen, Shuo et al. “Adversarial Metric Learning.” ArXiv abs/1802.03170 (2018): n. pag.
-- [ ] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust image recognition. In NeurIPS, 2018. 1, 2.1
+- [x] Jie Xu, Lei Luo, Cheng Deng, and Heng Huang. Bilevel distance metric learning for robust image recognition. In NeurIPS, 2018. 1, 2.1
 - [x] Han-Jia Ye, De-Chuan Zhan, Xue-Min Si, Yuan Jiang, and Zhi-Hua Zhou. What makes objects similar: a unified multi-metric learning approach. In NeurIPS, 2016. 1, 2.1
 - [x] Pourya Zadeh, Reshad Hosseini, and Suvrit Sra. Geometric mean metric learning. In ICML, 2016. 1, 4.2
 - [ ] Pengfei Zhu, Hao Cheng, Qinghua Hu, Qilong Wang, and Changqing Zhang. Towards generalized and efficient metric learning on riemannian manifold. In IJCAI, 2018. 1
@@ -49,7 +49,7 @@ ___
   1) Adversarial Metric Learning - подход, похожий на GAN. пытаемся искусственно создавать пары, на которых алгоритм ошибается.
   2) A Unified Framework for Metric Transfer Learning - transfer learning для metrcic learning
   3) Robust Transfer Metric Learning for Image Classification - аналогично
-
+  4) Bilevel distance metric learning for robust image recognition - извлечение новых признаковых представлений одновременно с обучением алгоритма
 
 + Методы решающие некоторые проблемы существующих алгоритмов:
   1) Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent - эффективный метод оптимизации, подходит для больших данных.
