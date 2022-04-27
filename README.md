@@ -53,7 +53,13 @@ ___
 
 + Методы решающие некоторые проблемы существующих алгоритмов:
   1) Scalable Large-Margin Distance Metric Learning Using Stochastic Gradient Descent - эффективный метод оптимизации, подходит для больших данных.
-  2) Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets - для несбалансированных датасетов.
+
+
++ Imbalance data:
+  1) Learning a Distance Metric by Balancing KL-Divergence for Imbalanced Datasets - для несбалансированных датасетов.
+  2) Iterative Metric Learning for Imbalance Data Classification
+  3) Metric Learning from Imbalanced Data with Generalization Guarantees
+  4) Metric Learning from Imbalanced Data
 
 + Подходы использующие оптмизацию на многообразии Римана или Грассмана, а также в пространстве неотрицательно опредеделенных матриц. (Riemannian manifold, Grassman manifold, PSD cone):
   1) Towards generalized and efficient metric learning on riemannian manifold
